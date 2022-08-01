@@ -28,7 +28,7 @@ This project is compiled and executed on the Linux Mint 20 Cinnamon operating sy
 Git clone this repository to your local computer running the Linux Mint 20 Cinnamon operating system. Compile the code using the `make` command, then run the MUSH interpreter and have it take in a sample input file with the following commands:
 ```
 $ make clean all
-# bin/mush < rsrc/loop1.mush
+$ bin/mush < rsrc/loop1.mush
 hello
 hello
 hello

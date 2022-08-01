@@ -1,0 +1,4 @@
+10 set x = 2>1
+11 unset x
+12 set y = 11
+run
